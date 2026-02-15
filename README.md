@@ -6,8 +6,8 @@ A comprehensive data analytics dashboard designed to monitor, analyze, and forec
 
 ## 🚀 Project Overview
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://juvenile-services-reporting-e8a2jhdurikekf4rafs7b6.streamlit.app/)
-**Live Demo:** [Click here to view the deployed dashboard](https://juvenile-services-reporting-e8a2jhdurikekf4rafs7b6.streamlit.app/)
+
+**Live Demo:** [Click here to view dashboard](https://juvenile-services-reporting-e8a2jhdurikekf4rafs7b6.streamlit.app/)
 
 ![Executive Dashboard Preview](docs/dashboard_preview.png)
 
