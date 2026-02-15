@@ -50,7 +50,7 @@ The built-in audit system monitors data health:
 | :--- | :--- |
 | **Executive Dashboard** | High-level KPIs, offense severity breakdown (Violent vs. Non-Violent), and regional distribution. |
 | **Risk & Hotspots** | Volatility analysis and outlier detection using population-adjusted referral rates. |
-| **County Comparisons** | **[NEW]** Direct comparison of top counties by volume and intensity (Rate/1k). |
+| **County Comparisons** |  Direct comparison of top counties by volume and intensity (Rate/1k). |
 | **Forecast Model** | Linear regression projections (2022-2025) with integrated historical context. |
 | **Data Quality Audit** | Transparency hub showing the results of automated data validation checks. |
 
@@ -92,23 +92,6 @@ python scripts/etl_pipeline.py
 ```bash
 streamlit run dashboard/app_v2.py
 ```
-
----
-
-## 🌐 Deployment (Public Link)
-
-To make this dashboard accessible to everyone, you can deploy it for free on **Streamlit Cloud**:
-
-1.  Push this code to your GitHub repository.
-2.  Go to [share.streamlit.io](https://share.streamlit.io/).
-3.  Click **"New app"**.
-4.  Select your repository (`gubbalamanasa30/juvenile-services-reporting`).
-5.  Set the **Main file path** to `dashboard/app_v2.py`.
-6.  Click **Deploy**.
-
-Once deployed, replacing the "Live Demo" link at the top of this README with your new app URL:
-`https://juvenile-services-reporting-e8a2jhdurikekf4rafs7b6.streamlit.app/`
-
 ---
 
 ## 📁 Project Structure
