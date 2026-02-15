@@ -6,6 +6,9 @@ A comprehensive data analytics dashboard designed to monitor, analyze, and forec
 
 ## 🚀 Project Overview
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+**Live Demo:** [Click here to view the deployed dashboard](https://share.streamlit.io/) *(Note: Deployment required)*
+
 The **TJJD Analytics Suite** processes over **9 years of historical referral data (FY 2013 - 2021)** to provide actionable insights for agency administrators and policymakers. 
 
 The system integrates:
@@ -85,6 +88,21 @@ python scripts/etl_pipeline.py
 ```bash
 streamlit run dashboard/app_v2.py
 ```
+
+---
+
+## 🌐 Deployment (Public Link)
+
+To make this dashboard accessible to everyone, you can deploy it for free on **Streamlit Cloud**:
+
+1.  Push this code to your GitHub repository.
+2.  Go to [share.streamlit.io](https://share.streamlit.io/).
+3.  Click **"New app"**.
+4.  Select your repository (`gubbalamanasa30/juvenile-services-reporting`).
+5.  Set the **Main file path** to `dashboard/app_v2.py`.
+6.  Click **Deploy**.
+
+Once deployed, replacing the "Live Demo" link at the top of this README with your new app URL.
 
 ---
 
