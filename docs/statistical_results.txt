@@ -1,0 +1,51 @@
+--- Statistical Analysis: Referral Rate Drivers ---
+N = 2286 county-year records
+
+Linear Regression Model (OLS)
+Dependent Variable: Referral Rate (per 1,000 youth)
+R-squared: 0.1416 (Model explains 14.2% of variance)
+
+Coefficients:
+Intercept: 2271.4601
+Year: -1.1160
+Region_Capital: 0.7043
+Region_Central Texas: -3.4135
+Region_Coastal Bend: 14.5917
+Region_Concho Valley: 17.0346
+Region_Deep East Texas: -3.0738
+Region_East Texas: -3.3919
+Region_Golden Crescent: 22.0115
+Region_Gulf Coast: -1.1061
+Region_High Plains: 12.4931
+Region_Metroplex: -8.0378
+Region_North East Texas: -1.5801
+Region_North Texas: -4.7808
+Region_Permian Basin: 13.2723
+Region_South East Texas: -3.6575
+Region_South Texas: -4.3502
+Region_Upper Rio Grande: -2.0357
+Region_West Texas: -4.9752
+
+Interpretation:
+* Trend: Controlling for Region, referral rates have decreased by 1.12 per 1,000 youth each year.
+
+--- Average Referral Rate by Region ---
+Region
+Golden Crescent     42.433889
+Concho Valley       37.456963
+Coastal Bend        35.014106
+Permian Basin       33.694702
+High Plains         32.915504
+Capital             21.126699
+Alamo               20.422401
+Gulf Coast          19.316340
+North East Texas    18.842261
+Upper Rio Grande    18.386748
+Deep East Texas     17.348583
+East Texas          17.030468
+Central Texas       17.008905
+South East Texas    16.764869
+South Texas         16.072055
+North Texas         15.641689
+West Texas          15.447311
+Metroplex           12.384641

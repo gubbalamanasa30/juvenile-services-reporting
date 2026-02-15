@@ -1,0 +1,2 @@
+Category,Rule,Failed_Rows,Severity,Details
+Outlier,YoY Change > 50%,204,Low,204 county-years show >50% change in volume vs previous year.
