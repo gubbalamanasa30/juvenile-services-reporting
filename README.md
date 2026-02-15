@@ -9,7 +9,8 @@ A comprehensive data analytics dashboard designed to monitor, analyze, and forec
 
 **Live Demo:** [Click here to view dashboard](https://juvenile-services-reporting-e8a2jhdurikekf4rafs7b6.streamlit.app/)
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/26d6e5ae-47ad-4686-9119-8c4e1121f8cc" />
+![Executive Dashboard Preview](data/DASH.png)
+
 
 
 The **TJJD Analytics Suite** processes over **9 years of historical referral data (FY 2013 - 2021)** to provide actionable insights for agency administrators and policymakers. 
